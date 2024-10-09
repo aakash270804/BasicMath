@@ -8,8 +8,8 @@ add(uint256 a, uint256 b): Adds two unsigned integers and returns the result.
 subtract(uint256 a, uint256 b): Subtracts one unsigned integer from another and returns the result.
 multiply(uint256 a, uint256 b): Multiplies two unsigned integers and returns the result.
 divide(uint256 a, uint256 b): Divides one unsigned integer by another, ensuring the divisor is non-zero. If the divisor is zero, the function will revert with an error message "Cannot divide by zero."
-Getting Started
-## Installing
+##Getting Started
+### Installing
 To use this contract, you can compile and deploy it using an Ethereum development environment like Remix.
 
 Open the Remix IDE.
